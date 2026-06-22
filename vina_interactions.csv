@@ -1,0 +1,510 @@
+pose,score_kcal_mol,ligand_atom,ligand_adtype,ligand_charge,receptor_chain,receptor_resname,receptor_resnum,receptor_atom,receptor_adtype,distance_A,interaction_type
+1,-5.2,C,C,0.012,A,GLN,42,OE1,OA,3.39,Van der Waals
+1,-5.2,O,OA,-0.391,A,LYS,6,CB,C,3.40,Van der Waals
+1,-5.2,C,C,0.031,A,GLU,40,CB,C,3.50,Hydrophobic
+1,-5.2,C,C,0.005,A,GLN,42,N,NA,3.50,Van der Waals
+1,-5.2,C,C,0.008,A,SER,51,OG,OA,3.51,Van der Waals
+1,-5.2,C,C,0.007,A,THR,61,OG1,OA,3.53,Van der Waals
+1,-5.2,O,OA,-0.391,A,LYS,6,CD,C,3.57,Van der Waals
+1,-5.2,C,C,0.005,A,THR,49,O,OA,3.59,Van der Waals
+1,-5.2,C,C,0.031,A,VAL,41,C,C,3.63,Hydrophobic
+1,-5.2,C,C,0.037,A,GLY,5,CA,C,3.64,Hydrophobic
+1,-5.2,C,C,0.031,A,VAL,41,N,NA,3.65,Van der Waals
+1,-5.2,C,C,0.008,A,THR,61,CG2,C,3.65,Hydrophobic
+1,-5.2,C,C,0.005,A,GLN,42,CB,C,3.65,Hydrophobic
+1,-5.2,C,C,0.031,A,GLU,40,C,C,3.66,Hydrophobic
+1,-5.2,C,C,0.031,A,VAL,41,O,OA,3.69,Van der Waals
+1,-5.2,O,OA,-0.391,A,GLU,40,OE2,OA,3.70,Van der Waals
+1,-5.2,C,C,0.005,A,GLU,40,O,OA,3.71,Van der Waals
+1,-5.2,C,C,0.007,A,THR,59,CG2,C,3.71,Hydrophobic
+1,-5.2,C,C,0.005,A,VAL,41,C,C,3.71,Hydrophobic
+1,-5.2,C,C,0.008,A,SER,51,OG,OA,3.71,Van der Waals
+1,-5.2,C,C,0.021,A,GLU,40,OE2,OA,3.73,Van der Waals
+1,-5.2,C,C,0.066,A,GLU,40,OE2,OA,3.76,Van der Waals
+1,-5.2,C,C,0.119,A,LYS,6,CB,C,3.76,Hydrophobic
+1,-5.2,C,C,0.007,A,HIS,53,CE1,A,3.77,Hydrophobic
+1,-5.2,C,C,-0.066,A,GLU,40,OE2,OA,3.77,Van der Waals
+1,-5.2,C,C,0.021,A,GLU,40,CD,C,3.86,Hydrophobic
+1,-5.2,C,C,0.005,A,GLU,40,C,C,3.87,Hydrophobic
+1,-5.2,C,C,0.008,A,SER,51,CB,C,3.88,Hydrophobic
+1,-5.2,C,C,0.012,A,THR,4,CG2,C,3.90,Hydrophobic
+1,-5.2,C,C,0.008,A,THR,49,CG2,C,3.90,Hydrophobic
+1,-5.2,C,C,0.021,A,GLU,40,CB,C,3.91,Hydrophobic
+1,-5.2,C,C,-0.066,A,GLU,40,CB,C,3.94,Hydrophobic
+1,-5.2,C,C,0.008,A,THR,49,CG2,C,3.98,Hydrophobic
+1,-5.2,C,C,0.037,A,GLY,5,C,C,4.01,Hydrophobic
+1,-5.2,C,C,0.005,A,VAL,41,CA,C,4.06,Hydrophobic
+1,-5.2,C,C,0.031,A,VAL,41,CA,C,4.09,Hydrophobic
+1,-5.2,C,C,0.031,A,GLN,42,CB,C,4.10,Hydrophobic
+1,-5.2,C,C,0.031,A,GLU,40,CA,C,4.10,Hydrophobic
+1,-5.2,C,C,0.008,A,GLU,40,CB,C,4.13,Hydrophobic
+1,-5.2,C,C,0.005,A,GLN,42,CA,C,4.17,Hydrophobic
+1,-5.2,C,C,0.005,A,GLU,40,CB,C,4.19,Hydrophobic
+1,-5.2,C,C,-0.066,A,GLU,40,CD,C,4.23,Hydrophobic
+1,-5.2,C,C,0.005,A,THR,49,CG2,C,4.25,Hydrophobic
+1,-5.2,C,C,0.119,A,GLY,5,C,C,4.27,Hydrophobic
+1,-5.2,C,C,0.005,A,THR,49,CB,C,4.30,Hydrophobic
+1,-5.2,C,C,0.012,A,GLN,42,CD,C,4.31,Hydrophobic
+1,-5.2,C,C,-0.051,A,THR,4,CG2,C,4.32,Hydrophobic
+1,-5.2,C,C,0.036,A,GLY,5,CA,C,4.32,Hydrophobic
+1,-5.2,C,C,0.037,A,THR,4,CG2,C,4.32,Hydrophobic
+1,-5.2,C,C,0.036,A,GLY,5,C,C,4.33,Hydrophobic
+1,-5.2,C,C,0.008,A,GLU,40,C,C,4.34,Hydrophobic
+1,-5.2,C,C,0.008,A,THR,61,CB,C,4.34,Hydrophobic
+1,-5.2,C,C,0.007,A,THR,59,CG2,C,4.35,Hydrophobic
+1,-5.2,C,C,-0.017,A,THR,59,CG2,C,4.36,Hydrophobic
+1,-5.2,C,C,0.009,A,GLU,40,CD,C,4.40,Hydrophobic
+1,-5.2,C,C,0.005,A,THR,49,C,C,4.41,Hydrophobic
+1,-5.2,C,C,0.036,A,LYS,6,CB,C,4.45,Hydrophobic
+1,-5.2,C,C,0.031,A,GLN,42,CA,C,4.47,Hydrophobic
+1,-5.2,C,C,0.007,A,THR,61,CB,C,4.47,Hydrophobic
+1,-5.2,C,C,0.008,A,THR,49,CB,C,4.49,Hydrophobic
+2,-5,H,HD,0.210,A,THR,61,OG1,OA,1.97,H-bond
+2,-5,O,OA,-0.391,A,THR,61,OG1,OA,2.77,H-bond
+2,-5,O,OA,-0.391,A,SER,51,OG,OA,2.94,H-bond
+2,-5,C,C,0.066,A,SER,51,OG,OA,3.10,Van der Waals
+2,-5,C,C,0.012,A,GLN,42,OE1,OA,3.30,Van der Waals
+2,-5,C,C,0.009,A,GLU,40,CB,C,3.48,Hydrophobic
+2,-5,C,C,0.007,A,GLU,40,OE2,OA,3.55,Van der Waals
+2,-5,C,C,0.119,A,THR,61,OG1,OA,3.58,Van der Waals
+2,-5,C,C,0.036,A,THR,61,OG1,OA,3.58,Van der Waals
+2,-5,C,C,0.003,A,LYS,6,N,NA,3.59,Van der Waals
+2,-5,C,C,0.005,A,GLU,40,OE2,OA,3.59,Van der Waals
+2,-5,C,C,0.007,A,LEU,127,O,OA,3.60,Van der Waals
+2,-5,C,C,0.003,A,GLY,5,C,C,3.60,Hydrophobic
+2,-5,C,C,0.119,A,SER,51,OG,OA,3.61,Van der Waals
+2,-5,C,C,0.005,A,GLU,40,CB,C,3.64,Hydrophobic
+2,-5,C,C,-0.042,A,THR,49,CG2,C,3.65,Hydrophobic
+2,-5,C,C,0.005,A,VAL,41,O,OA,3.67,Van der Waals
+2,-5,C,C,0.007,A,LYS,6,CB,C,3.68,Hydrophobic
+2,-5,C,C,0.003,A,GLY,5,CA,C,3.71,Hydrophobic
+2,-5,C,C,0.007,A,LYS,6,CB,C,3.76,Hydrophobic
+2,-5,C,C,0.012,A,LYS,63,CE,C,3.79,Hydrophobic
+2,-5,C,C,0.004,A,THR,49,CG2,C,3.80,Hydrophobic
+2,-5,C,C,0.003,A,LYS,6,CB,C,3.84,Hydrophobic
+2,-5,C,C,0.012,A,THR,49,CG2,C,3.84,Hydrophobic
+2,-5,C,C,0.007,A,LYS,6,CD,C,3.85,Hydrophobic
+2,-5,C,C,0.066,A,THR,61,CG2,C,3.93,Hydrophobic
+2,-5,C,C,0.036,A,THR,61,CG2,C,3.94,Hydrophobic
+2,-5,C,C,0.066,A,THR,49,CG2,C,3.94,Hydrophobic
+2,-5,C,C,-0.017,A,LYS,6,CB,C,3.98,Hydrophobic
+2,-5,C,C,0.009,A,GLU,40,C,C,3.99,Hydrophobic
+2,-5,C,C,0.003,A,GLY,5,CA,C,4.01,Hydrophobic
+2,-5,C,C,0.012,A,GLN,42,CB,C,4.01,Hydrophobic
+2,-5,C,C,-0.051,A,THR,49,CG2,C,4.04,Hydrophobic
+2,-5,C,C,0.003,A,THR,4,CG2,C,4.06,Hydrophobic
+2,-5,C,C,0.001,A,GLY,5,CA,C,4.10,Hydrophobic
+2,-5,C,C,0.009,A,VAL,41,C,C,4.14,Hydrophobic
+2,-5,C,C,0.005,A,VAL,41,C,C,4.14,Hydrophobic
+2,-5,C,C,0.003,A,GLY,5,C,C,4.14,Hydrophobic
+2,-5,C,C,0.012,A,GLN,42,CD,C,4.18,Hydrophobic
+2,-5,C,C,0.036,A,THR,61,CB,C,4.18,Hydrophobic
+2,-5,C,C,0.000,A,THR,49,CG2,C,4.21,Hydrophobic
+2,-5,C,C,0.005,A,GLU,40,C,C,4.22,Hydrophobic
+2,-5,C,C,0.005,A,GLU,40,CA,C,4.23,Hydrophobic
+2,-5,C,C,0.066,A,SER,51,CB,C,4.25,Hydrophobic
+2,-5,C,C,0.021,A,GLU,40,CB,C,4.26,Hydrophobic
+2,-5,C,C,0.009,A,GLU,40,CA,C,4.27,Hydrophobic
+2,-5,C,C,0.005,A,GLU,40,CD,C,4.27,Hydrophobic
+2,-5,C,C,0.119,A,THR,61,CG2,C,4.28,Hydrophobic
+2,-5,C,C,0.021,A,GLU,40,CD,C,4.31,Hydrophobic
+2,-5,C,C,0.003,A,LYS,6,CA,C,4.31,Hydrophobic
+2,-5,C,C,0.012,A,GLN,42,CG,C,4.32,Hydrophobic
+2,-5,C,C,0.007,A,LYS,6,CD,C,4.34,Hydrophobic
+2,-5,C,C,0.001,A,GLY,5,C,C,4.36,Hydrophobic
+2,-5,C,C,0.009,A,GLU,40,CD,C,4.37,Hydrophobic
+2,-5,C,C,0.007,A,LYS,6,CG,C,4.42,Hydrophobic
+2,-5,C,C,0.005,A,GLU,40,CG,C,4.42,Hydrophobic
+2,-5,C,C,0.009,A,GLN,42,CB,C,4.45,Hydrophobic
+3,-4.9,O,OA,-0.391,A,THR,49,O,OA,2.80,H-bond
+3,-4.9,O,OA,-0.391,A,GLN,42,N,NA,2.99,H-bond
+3,-4.9,C,C,0.031,A,GLU,40,OE2,OA,3.22,Van der Waals
+3,-4.9,O,OA,-0.391,A,GLN,42,CB,C,3.30,Van der Waals
+3,-4.9,C,C,0.005,A,LYS,6,CB,C,3.35,Hydrophobic
+3,-4.9,C,C,0.009,A,GLN,42,OE1,OA,3.40,Van der Waals
+3,-4.9,C,C,0.004,A,GLU,40,OE2,OA,3.41,Van der Waals
+3,-4.9,O,OA,-0.391,A,VAL,41,C,C,3.42,Van der Waals
+3,-4.9,C,C,0.005,A,THR,4,CG2,C,3.44,Hydrophobic
+3,-4.9,C,C,0.037,A,GLU,40,CB,C,3.51,Hydrophobic
+3,-4.9,C,C,0.036,A,SER,51,OG,OA,3.51,Van der Waals
+3,-4.9,O,OA,-0.391,A,THR,49,CB,C,3.57,Van der Waals
+3,-4.9,C,C,0.009,A,THR,4,CG2,C,3.60,Hydrophobic
+3,-4.9,C,C,-0.051,A,GLU,40,OE2,OA,3.62,Van der Waals
+3,-4.9,O,OA,-0.391,A,GLU,40,O,OA,3.62,Van der Waals
+3,-4.9,O,OA,-0.391,A,THR,49,C,C,3.62,Van der Waals
+3,-4.9,C,C,0.031,A,GLY,5,O,OA,3.64,Van der Waals
+3,-4.9,C,C,0.119,A,GLU,40,O,OA,3.64,Van der Waals
+3,-4.9,C,C,0.037,A,GLU,40,CD,C,3.70,Hydrophobic
+3,-4.9,O,OA,-0.391,A,THR,49,CG2,C,3.70,Van der Waals
+3,-4.9,C,C,0.037,A,GLU,40,OE1,OA,3.71,Van der Waals
+3,-4.9,C,C,0.119,A,GLU,40,CB,C,3.72,Hydrophobic
+3,-4.9,C,C,0.031,A,LYS,6,CB,C,3.72,Hydrophobic
+3,-4.9,C,C,-0.042,A,GLU,40,OE2,OA,3.73,Van der Waals
+3,-4.9,O,OA,-0.391,A,GLN,42,CA,C,3.73,Van der Waals
+3,-4.9,C,C,0.119,A,GLU,40,C,C,3.75,Hydrophobic
+3,-4.9,C,C,0.008,A,LYS,6,N,NA,3.75,Van der Waals
+3,-4.9,O,OA,-0.391,A,VAL,41,CA,C,3.76,Van der Waals
+3,-4.9,C,C,0.007,A,THR,4,CG2,C,3.76,Hydrophobic
+3,-4.9,C,C,0.031,A,GLY,5,C,C,3.77,Hydrophobic
+3,-4.9,C,C,0.008,A,GLY,5,CA,C,3.78,Hydrophobic
+3,-4.9,C,C,0.008,A,GLY,5,C,C,3.80,Hydrophobic
+3,-4.9,C,C,-0.051,A,GLU,40,CD,C,3.82,Hydrophobic
+3,-4.9,C,C,0.066,A,GLN,42,CB,C,3.83,Hydrophobic
+3,-4.9,C,C,0.036,A,SER,51,CB,C,3.86,Hydrophobic
+3,-4.9,C,C,0.036,A,GLU,40,CB,C,3.98,Hydrophobic
+3,-4.9,C,C,0.037,A,SER,51,CB,C,3.99,Hydrophobic
+3,-4.9,C,C,0.021,A,GLY,5,CA,C,4.00,Hydrophobic
+3,-4.9,C,C,0.119,A,VAL,41,C,C,4.01,Hydrophobic
+3,-4.9,C,C,0.021,A,THR,4,CG2,C,4.03,Hydrophobic
+3,-4.9,C,C,0.005,A,GLY,5,C,C,4.03,Hydrophobic
+3,-4.9,C,C,0.008,A,LYS,6,CB,C,4.06,Hydrophobic
+3,-4.9,C,C,0.007,A,THR,4,CB,C,4.08,Hydrophobic
+3,-4.9,C,C,0.037,A,GLU,40,CG,C,4.14,Hydrophobic
+3,-4.9,C,C,0.119,A,GLN,42,CB,C,4.17,Hydrophobic
+3,-4.9,C,C,0.005,A,LYS,6,CA,C,4.17,Hydrophobic
+3,-4.9,C,C,-0.051,A,GLU,40,CB,C,4.18,Hydrophobic
+3,-4.9,C,C,0.012,A,GLU,40,CD,C,4.22,Hydrophobic
+3,-4.9,C,C,-0.042,A,GLU,40,CB,C,4.22,Hydrophobic
+3,-4.9,C,C,0.031,A,LYS,6,CA,C,4.23,Hydrophobic
+3,-4.9,C,C,0.021,A,GLY,5,C,C,4.24,Hydrophobic
+3,-4.9,C,C,0.009,A,GLN,42,CD,C,4.25,Hydrophobic
+3,-4.9,C,C,-0.042,A,GLU,40,CD,C,4.25,Hydrophobic
+3,-4.9,C,C,0.119,A,VAL,41,CA,C,4.27,Hydrophobic
+3,-4.9,C,C,0.031,A,GLU,40,CD,C,4.28,Hydrophobic
+3,-4.9,C,C,0.004,A,GLU,40,CD,C,4.29,Hydrophobic
+3,-4.9,C,C,0.005,A,LYS,6,CD,C,4.31,Hydrophobic
+3,-4.9,C,C,0.036,A,THR,49,CG2,C,4.33,Hydrophobic
+3,-4.9,C,C,-0.022,A,GLY,5,CA,C,4.34,Hydrophobic
+3,-4.9,C,C,0.007,A,THR,4,C,C,4.34,Hydrophobic
+3,-4.9,C,C,-0.002,A,THR,4,CG2,C,4.35,Hydrophobic
+3,-4.9,C,C,0.119,A,GLU,40,CA,C,4.37,Hydrophobic
+3,-4.9,C,C,0.066,A,VAL,41,C,C,4.41,Hydrophobic
+3,-4.9,C,C,0.005,A,LYS,6,CG,C,4.42,Hydrophobic
+3,-4.9,C,C,-0.066,A,GLY,5,C,C,4.42,Hydrophobic
+3,-4.9,C,C,0.031,A,GLY,5,CA,C,4.44,Hydrophobic
+3,-4.9,C,C,0.031,A,GLU,40,CB,C,4.46,Hydrophobic
+4,-4.9,O,OA,-0.391,A,THR,49,OG1,OA,2.98,H-bond
+4,-4.9,C,C,0.066,A,THR,49,OG1,OA,3.24,Van der Waals
+4,-4.9,C,C,0.012,A,GLN,42,OE1,OA,3.31,Van der Waals
+4,-4.9,C,C,0.003,A,GLU,40,OE2,OA,3.44,Van der Waals
+4,-4.9,C,C,0.001,A,VAL,41,O,OA,3.45,Van der Waals
+4,-4.9,C,C,0.037,A,ASP,44,OD2,OA,3.45,Van der Waals
+4,-4.9,C,C,0.009,A,THR,49,CG2,C,3.47,Hydrophobic
+4,-4.9,C,C,0.003,A,GLY,5,O,OA,3.48,Van der Waals
+4,-4.9,C,C,0.007,A,GLN,42,OE1,OA,3.48,Van der Waals
+4,-4.9,C,C,0.119,A,THR,49,OG1,OA,3.49,Van der Waals
+4,-4.9,C,C,-0.017,A,VAL,41,O,OA,3.53,Van der Waals
+4,-4.9,C,C,0.012,A,ASP,44,OD2,OA,3.55,Van der Waals
+4,-4.9,O,OA,-0.391,A,LYS,63,NZ,N,3.56,Salt bridge
+4,-4.9,C,C,0.003,A,GLU,40,CB,C,3.60,Hydrophobic
+4,-4.9,C,C,-0.017,A,GLY,5,O,OA,3.62,Van der Waals
+4,-4.9,C,C,0.007,A,GLY,5,C,C,3.67,Hydrophobic
+4,-4.9,C,C,0.036,A,ASP,44,OD2,OA,3.68,Van der Waals
+4,-4.9,C,C,0.036,A,ASP,44,CB,C,3.70,Hydrophobic
+4,-4.9,C,C,0.001,A,VAL,41,C,C,3.70,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CB,C,3.70,Hydrophobic
+4,-4.9,C,C,0.000,A,GLN,42,CG,C,3.73,Hydrophobic
+4,-4.9,C,C,0.003,A,VAL,41,O,OA,3.73,Van der Waals
+4,-4.9,C,C,0.003,A,GLU,40,OE2,OA,3.74,Van der Waals
+4,-4.9,C,C,-0.051,A,ASP,44,OD2,OA,3.74,Van der Waals
+4,-4.9,C,C,0.009,A,THR,49,CB,C,3.75,Hydrophobic
+4,-4.9,C,C,0.008,A,GLU,40,OE2,OA,3.77,Van der Waals
+4,-4.9,C,C,0.066,A,GLN,42,CG,C,3.77,Hydrophobic
+4,-4.9,C,C,0.119,A,LYS,63,NZ,N,3.78,Van der Waals
+4,-4.9,C,C,0.012,A,GLN,42,CB,C,3.80,Hydrophobic
+4,-4.9,C,C,0.001,A,GLU,40,CB,C,3.81,Hydrophobic
+4,-4.9,C,C,0.007,A,GLY,5,CA,C,3.83,Hydrophobic
+4,-4.9,C,C,0.012,A,GLN,42,CG,C,3.85,Hydrophobic
+4,-4.9,C,C,-0.017,A,GLY,5,C,C,3.86,Hydrophobic
+4,-4.9,C,C,0.009,A,GLN,42,CB,C,3.96,Hydrophobic
+4,-4.9,C,C,0.004,A,GLN,42,CG,C,3.97,Hydrophobic
+4,-4.9,C,C,-0.042,A,GLN,42,CG,C,3.98,Hydrophobic
+4,-4.9,C,C,0.012,A,GLN,42,CD,C,4.01,Hydrophobic
+4,-4.9,C,C,-0.017,A,GLY,5,CA,C,4.03,Hydrophobic
+4,-4.9,C,C,0.001,A,GLU,40,C,C,4.07,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CD,C,4.08,Hydrophobic
+4,-4.9,C,C,0.003,A,GLY,5,C,C,4.09,Hydrophobic
+4,-4.9,C,C,0.005,A,THR,49,CG2,C,4.12,Hydrophobic
+4,-4.9,C,C,0.000,A,GLN,42,CB,C,4.13,Hydrophobic
+4,-4.9,C,C,0.001,A,GLN,42,CB,C,4.17,Hydrophobic
+4,-4.9,C,C,0.036,A,ASP,44,CG,C,4.19,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CA,C,4.21,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CD,C,4.22,Hydrophobic
+4,-4.9,C,C,0.037,A,ASP,44,CB,C,4.28,Hydrophobic
+4,-4.9,C,C,0.012,A,ASP,44,CG,C,4.30,Hydrophobic
+4,-4.9,C,C,0.037,A,ASP,44,CG,C,4.32,Hydrophobic
+4,-4.9,C,C,0.003,A,VAL,41,C,C,4.33,Hydrophobic
+4,-4.9,C,C,0.066,A,THR,49,CB,C,4.33,Hydrophobic
+4,-4.9,C,C,-0.051,A,ASP,44,CB,C,4.34,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,C,C,4.35,Hydrophobic
+4,-4.9,C,C,0.001,A,VAL,41,CA,C,4.35,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CG,C,4.35,Hydrophobic
+4,-4.9,C,C,0.007,A,LYS,6,CB,C,4.36,Hydrophobic
+4,-4.9,C,C,0.066,A,GLN,42,CB,C,4.37,Hydrophobic
+4,-4.9,C,C,0.001,A,GLU,40,CA,C,4.38,Hydrophobic
+4,-4.9,C,C,0.007,A,GLN,42,CD,C,4.39,Hydrophobic
+4,-4.9,C,C,0.008,A,GLU,40,CD,C,4.42,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,CG,C,4.46,Hydrophobic
+4,-4.9,C,C,-0.051,A,ASP,44,CG,C,4.46,Hydrophobic
+4,-4.9,C,C,-0.017,A,VAL,41,C,C,4.47,Hydrophobic
+4,-4.9,C,C,-0.066,A,GLN,42,CG,C,4.47,Hydrophobic
+4,-4.9,C,C,0.003,A,GLU,40,C,C,4.49,Hydrophobic
+4,-4.9,C,C,0.001,A,GLN,42,CA,C,4.49,Hydrophobic
+4,-4.9,C,C,0.036,A,ASP,47,CB,C,4.49,Hydrophobic
+5,-4.8,C,C,0.000,A,SER,51,OG,OA,3.03,Van der Waals
+5,-4.8,C,C,0.031,A,GLU,40,OE1,OA,3.44,Van der Waals
+5,-4.8,C,C,0.001,A,GLN,42,OE1,OA,3.44,Van der Waals
+5,-4.8,C,C,0.003,A,GLN,42,OE1,OA,3.48,Van der Waals
+5,-4.8,C,C,0.007,A,THR,49,OG1,OA,3.50,Van der Waals
+5,-4.8,C,C,0.021,A,GLU,40,OE1,OA,3.50,Van der Waals
+5,-4.8,C,C,0.008,A,GLU,40,OE2,OA,3.54,Van der Waals
+5,-4.8,C,C,0.008,A,GLU,40,OE1,OA,3.57,Van der Waals
+5,-4.8,C,C,0.031,A,HIS,53,CE1,A,3.58,Hydrophobic
+5,-4.8,C,C,-0.042,A,THR,61,OG1,OA,3.59,Van der Waals
+5,-4.8,C,C,0.007,A,THR,49,CG2,C,3.59,Hydrophobic
+5,-4.8,C,C,0.119,A,THR,61,CG2,C,3.60,Hydrophobic
+5,-4.8,C,C,0.021,A,GLU,40,CD,C,3.61,Hydrophobic
+5,-4.8,C,C,0.119,A,THR,61,OG1,OA,3.61,Van der Waals
+5,-4.8,C,C,0.004,A,SER,51,OG,OA,3.65,Van der Waals
+5,-4.8,C,C,0.004,A,THR,61,OG1,OA,3.66,Van der Waals
+5,-4.8,C,C,0.021,A,GLU,40,CB,C,3.77,Hydrophobic
+5,-4.8,C,C,0.000,A,SER,51,CB,C,3.77,Hydrophobic
+5,-4.8,C,C,0.007,A,GLN,42,CG,C,3.79,Hydrophobic
+5,-4.8,C,C,0.003,A,GLN,42,CB,C,3.79,Hydrophobic
+5,-4.8,C,C,-0.066,A,GLU,40,OE1,OA,3.80,Van der Waals
+5,-4.8,C,C,0.009,A,SER,51,OG,OA,3.80,Van der Waals
+5,-4.8,C,C,0.008,A,GLU,40,CD,C,3.83,Hydrophobic
+5,-4.8,C,C,0.007,A,GLN,42,CB,C,3.84,Hydrophobic
+5,-4.8,C,C,0.007,A,THR,49,CB,C,3.85,Hydrophobic
+5,-4.8,C,C,0.009,A,GLU,40,CB,C,3.88,Hydrophobic
+5,-4.8,C,C,0.119,A,THR,61,CB,C,3.90,Hydrophobic
+5,-4.8,C,C,-0.066,A,HIS,53,CE1,A,3.96,Hydrophobic
+5,-4.8,C,C,0.005,A,GLU,40,CB,C,3.98,Hydrophobic
+5,-4.8,C,C,0.001,A,GLN,42,CG,C,3.99,Hydrophobic
+5,-4.8,C,C,-0.017,A,GLN,42,CB,C,4.04,Hydrophobic
+5,-4.8,C,C,0.007,A,THR,49,CG2,C,4.08,Hydrophobic
+5,-4.8,C,C,0.009,A,SER,51,CB,C,4.09,Hydrophobic
+5,-4.8,C,C,-0.017,A,THR,49,CG2,C,4.12,Hydrophobic
+5,-4.8,C,C,0.003,A,GLN,42,CG,C,4.13,Hydrophobic
+5,-4.8,C,C,0.001,A,GLN,42,CD,C,4.14,Hydrophobic
+5,-4.8,C,C,0.004,A,HIS,53,CE1,A,4.14,Hydrophobic
+5,-4.8,C,C,0.001,A,GLN,42,CB,C,4.15,Hydrophobic
+5,-4.8,C,C,-0.022,A,GLU,40,CD,C,4.16,Hydrophobic
+5,-4.8,C,C,0.000,A,HIS,53,CE1,A,4.22,Hydrophobic
+5,-4.8,C,C,0.003,A,GLN,42,CD,C,4.22,Hydrophobic
+5,-4.8,C,C,0.021,A,GLU,40,CG,C,4.23,Hydrophobic
+5,-4.8,C,C,-0.066,A,SER,51,CB,C,4.23,Hydrophobic
+5,-4.8,C,C,0.004,A,THR,59,CG2,C,4.25,Hydrophobic
+5,-4.8,C,C,-0.017,A,THR,49,CB,C,4.27,Hydrophobic
+5,-4.8,C,C,0.007,A,THR,49,CB,C,4.27,Hydrophobic
+5,-4.8,C,C,0.031,A,GLU,40,CD,C,4.30,Hydrophobic
+5,-4.8,C,C,-0.017,A,GLN,42,CG,C,4.32,Hydrophobic
+5,-4.8,C,C,0.021,A,SER,51,CB,C,4.33,Hydrophobic
+5,-4.8,C,C,0.066,A,THR,61,CG2,C,4.33,Hydrophobic
+5,-4.8,C,C,-0.066,A,GLU,40,CD,C,4.34,Hydrophobic
+5,-4.8,C,C,-0.002,A,GLU,40,CD,C,4.36,Hydrophobic
+5,-4.8,C,C,0.004,A,SER,51,CB,C,4.48,Hydrophobic
+6,-4.8,O,OA,-0.391,A,GLU,40,OE2,OA,3.12,H-bond
+6,-4.8,C,C,0.004,A,GLN,42,OE1,OA,3.46,Van der Waals
+6,-4.8,C,C,0.012,A,GLN,42,OE1,OA,3.49,Van der Waals
+6,-4.8,C,C,0.119,A,GLU,40,OE2,OA,3.50,Van der Waals
+6,-4.8,O,OA,-0.391,A,LYS,6,CB,C,3.53,Van der Waals
+6,-4.8,C,C,0.037,A,GLY,5,CA,C,3.55,Hydrophobic
+6,-4.8,O,OA,-0.391,A,LYS,6,CD,C,3.55,Van der Waals
+6,-4.8,C,C,0.005,A,GLN,42,N,NA,3.58,Van der Waals
+6,-4.8,C,C,0.031,A,GLU,40,CB,C,3.61,Hydrophobic
+6,-4.8,C,C,0.008,A,THR,61,CG2,C,3.65,Hydrophobic
+6,-4.8,C,C,0.008,A,SER,51,OG,OA,3.66,Van der Waals
+6,-4.8,C,C,0.005,A,GLU,40,O,OA,3.70,Van der Waals
+6,-4.8,C,C,0.008,A,THR,49,CG2,C,3.70,Hydrophobic
+6,-4.8,C,C,0.005,A,VAL,41,C,C,3.73,Hydrophobic
+6,-4.8,C,C,0.005,A,GLN,42,CB,C,3.75,Hydrophobic
+6,-4.8,C,C,0.005,A,THR,49,O,OA,3.75,Van der Waals
+6,-4.8,C,C,0.005,A,GLU,40,C,C,3.82,Hydrophobic
+6,-4.8,C,C,0.012,A,THR,4,CG2,C,3.82,Hydrophobic
+6,-4.8,C,C,0.037,A,GLY,5,C,C,3.84,Hydrophobic
+6,-4.8,C,C,0.031,A,VAL,41,C,C,3.91,Hydrophobic
+6,-4.8,C,C,0.119,A,LYS,6,CB,C,3.92,Hydrophobic
+6,-4.8,C,C,0.031,A,GLU,40,C,C,3.95,Hydrophobic
+6,-4.8,C,C,0.008,A,THR,49,CG2,C,3.97,Hydrophobic
+6,-4.8,C,C,0.005,A,GLU,40,CB,C,4.05,Hydrophobic
+6,-4.8,C,C,0.008,A,SER,51,CB,C,4.06,Hydrophobic
+6,-4.8,C,C,0.005,A,VAL,41,CA,C,4.08,Hydrophobic
+6,-4.8,C,C,-0.010,A,THR,49,CG2,C,4.15,Hydrophobic
+6,-4.8,C,C,0.036,A,GLY,5,C,C,4.15,Hydrophobic
+6,-4.8,C,C,0.031,A,GLN,42,CB,C,4.20,Hydrophobic
+6,-4.8,C,C,0.008,A,GLU,40,CB,C,4.21,Hydrophobic
+6,-4.8,C,C,0.036,A,LYS,6,CB,C,4.22,Hydrophobic
+6,-4.8,C,C,0.005,A,GLN,42,CA,C,4.26,Hydrophobic
+6,-4.8,C,C,0.036,A,GLY,5,CA,C,4.26,Hydrophobic
+6,-4.8,C,C,0.012,A,THR,49,CG2,C,4.27,Hydrophobic
+6,-4.8,C,C,-0.051,A,THR,4,CG2,C,4.28,Hydrophobic
+6,-4.8,C,C,0.012,A,GLN,42,CB,C,4.31,Hydrophobic
+6,-4.8,C,C,0.031,A,GLU,40,CA,C,4.31,Hydrophobic
+6,-4.8,C,C,0.037,A,THR,4,CG2,C,4.34,Hydrophobic
+6,-4.8,C,C,0.119,A,GLY,5,C,C,4.37,Hydrophobic
+6,-4.8,C,C,0.012,A,GLN,42,CD,C,4.39,Hydrophobic
+6,-4.8,C,C,0.031,A,VAL,41,CA,C,4.42,Hydrophobic
+6,-4.8,C,C,0.004,A,GLN,42,CD,C,4.43,Hydrophobic
+6,-4.8,C,C,0.005,A,THR,49,CG2,C,4.43,Hydrophobic
+6,-4.8,C,C,0.008,A,GLU,40,C,C,4.49,Hydrophobic
+6,-4.8,C,C,0.008,A,THR,61,CB,C,4.49,Hydrophobic
+6,-4.8,C,C,0.005,A,THR,49,CB,C,4.49,Hydrophobic
+7,-4.7,O,OA,-0.391,A,SER,51,OG,OA,2.91,H-bond
+7,-4.7,C,C,0.021,A,GLU,40,OE2,OA,3.27,Van der Waals
+7,-4.7,C,C,0.005,A,GLY,5,O,OA,3.37,Van der Waals
+7,-4.7,C,C,0.005,A,GLU,40,OE2,OA,3.37,Van der Waals
+7,-4.7,C,C,0.004,A,GLN,42,CB,C,3.43,Hydrophobic
+7,-4.7,C,C,0.003,A,THR,4,CG2,C,3.45,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,OE2,OA,3.50,Van der Waals
+7,-4.7,C,C,0.036,A,THR,49,CG2,C,3.52,Hydrophobic
+7,-4.7,C,C,0.005,A,GLY,5,C,C,3.57,Hydrophobic
+7,-4.7,C,C,0.066,A,THR,49,CG2,C,3.63,Hydrophobic
+7,-4.7,C,C,0.000,A,GLN,42,CB,C,3.63,Hydrophobic
+7,-4.7,C,C,0.012,A,THR,49,OG1,OA,3.66,Van der Waals
+7,-4.7,C,C,0.009,A,GLY,5,O,OA,3.67,Van der Waals
+7,-4.7,C,C,-0.002,A,GLU,40,OE2,OA,3.69,Van der Waals
+7,-4.7,C,C,0.009,A,VAL,41,O,OA,3.75,Van der Waals
+7,-4.7,C,C,-0.017,A,THR,4,CG2,C,3.76,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,CB,C,3.77,Hydrophobic
+7,-4.7,C,C,-0.051,A,THR,49,CG2,C,3.78,Hydrophobic
+7,-4.7,C,C,0.007,A,THR,4,CG2,C,3.84,Hydrophobic
+7,-4.7,C,C,0.003,A,GLY,5,CA,C,3.84,Hydrophobic
+7,-4.7,C,C,0.001,A,GLY,5,CA,C,3.86,Hydrophobic
+7,-4.7,C,C,0.003,A,GLY,5,CA,C,3.88,Hydrophobic
+7,-4.7,C,C,0.005,A,LYS,6,CB,C,3.89,Hydrophobic
+7,-4.7,C,C,0.004,A,GLN,42,CG,C,3.93,Hydrophobic
+7,-4.7,C,C,0.003,A,GLY,5,C,C,3.96,Hydrophobic
+7,-4.7,C,C,0.012,A,THR,49,CB,C,3.98,Hydrophobic
+7,-4.7,C,C,-0.042,A,THR,49,CG2,C,4.01,Hydrophobic
+7,-4.7,C,C,-0.042,A,GLN,42,CB,C,4.04,Hydrophobic
+7,-4.7,C,C,0.012,A,THR,49,CG2,C,4.04,Hydrophobic
+7,-4.7,C,C,0.119,A,THR,49,CG2,C,4.05,Hydrophobic
+7,-4.7,C,C,0.037,A,THR,49,CG2,C,4.10,Hydrophobic
+7,-4.7,C,C,-0.051,A,THR,49,CB,C,4.14,Hydrophobic
+7,-4.7,C,C,0.021,A,GLU,40,CD,C,4.16,Hydrophobic
+7,-4.7,C,C,0.005,A,GLY,5,CA,C,4.22,Hydrophobic
+7,-4.7,C,C,0.012,A,GLN,42,CG,C,4.23,Hydrophobic
+7,-4.7,C,C,0.012,A,GLN,42,CB,C,4.23,Hydrophobic
+7,-4.7,C,C,0.005,A,LYS,6,CA,C,4.25,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,CD,C,4.27,Hydrophobic
+7,-4.7,C,C,0.066,A,THR,49,CB,C,4.29,Hydrophobic
+7,-4.7,C,C,0.009,A,GLY,5,C,C,4.29,Hydrophobic
+7,-4.7,C,C,-0.042,A,THR,49,CB,C,4.31,Hydrophobic
+7,-4.7,C,C,0.005,A,GLU,40,CB,C,4.31,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,CA,C,4.32,Hydrophobic
+7,-4.7,C,C,0.003,A,LYS,6,CB,C,4.33,Hydrophobic
+7,-4.7,C,C,0.009,A,VAL,41,C,C,4.33,Hydrophobic
+7,-4.7,C,C,0.021,A,GLU,40,CB,C,4.36,Hydrophobic
+7,-4.7,C,C,0.005,A,GLU,40,CD,C,4.36,Hydrophobic
+7,-4.7,C,C,0.003,A,THR,4,C,C,4.39,Hydrophobic
+7,-4.7,C,C,0.000,A,GLN,42,CG,C,4.41,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,C,C,4.41,Hydrophobic
+7,-4.7,C,C,0.009,A,GLU,40,CG,C,4.44,Hydrophobic
+7,-4.7,C,C,0.004,A,GLN,42,CD,C,4.45,Hydrophobic
+7,-4.7,C,C,0.001,A,GLY,5,C,C,4.49,Hydrophobic
+8,-4.7,H,HD,0.210,A,GLU,40,O,OA,2.45,H-bond
+8,-4.7,O,OA,-0.391,A,GLU,40,O,OA,2.97,H-bond
+8,-4.7,O,OA,-0.391,A,THR,49,O,OA,3.17,H-bond
+8,-4.7,O,OA,-0.391,A,GLU,40,C,C,3.18,Van der Waals
+8,-4.7,O,OA,-0.391,A,GLN,42,N,NA,3.27,H-bond
+8,-4.7,C,C,0.066,A,GLN,42,CB,C,3.28,Hydrophobic
+8,-4.7,O,OA,-0.391,A,VAL,41,C,C,3.33,Van der Waals
+8,-4.7,O,OA,-0.391,A,VAL,41,N,NA,3.36,H-bond
+8,-4.7,O,OA,-0.391,A,VAL,41,CA,C,3.45,Van der Waals
+8,-4.7,C,C,0.007,A,THR,4,O,OA,3.50,Van der Waals
+8,-4.7,C,C,0.012,A,GLN,42,OE1,OA,3.53,Van der Waals
+8,-4.7,C,C,0.036,A,GLN,42,CB,C,3.54,Hydrophobic
+8,-4.7,C,C,0.021,A,GLU,40,OE2,OA,3.55,Van der Waals
+8,-4.7,C,C,0.005,A,LYS,6,CB,C,3.57,Hydrophobic
+8,-4.7,C,C,0.005,A,LYS,6,N,NA,3.63,Van der Waals
+8,-4.7,C,C,0.009,A,GLY,5,C,C,3.64,Hydrophobic
+8,-4.7,C,C,0.036,A,THR,49,CG2,C,3.64,Hydrophobic
+8,-4.7,C,C,-0.042,A,GLN,42,OE1,OA,3.65,Van der Waals
+8,-4.7,C,C,-0.066,A,GLU,40,OE2,OA,3.65,Van der Waals
+8,-4.7,C,C,0.066,A,VAL,41,O,OA,3.68,Van der Waals
+8,-4.7,C,C,0.031,A,GLU,40,OE2,OA,3.72,Van der Waals
+8,-4.7,C,C,0.007,A,THR,4,CG2,C,3.73,Hydrophobic
+8,-4.7,C,C,0.066,A,GLN,42,N,NA,3.73,Van der Waals
+8,-4.7,C,C,0.066,A,VAL,41,C,C,3.76,Hydrophobic
+8,-4.7,O,OA,-0.391,A,GLU,40,CB,C,3.78,Van der Waals
+8,-4.7,C,C,0.119,A,GLN,42,CB,C,3.79,Hydrophobic
+8,-4.7,C,C,0.009,A,LYS,6,N,NA,3.80,Van der Waals
+8,-4.7,C,C,0.036,A,THR,49,CB,C,3.82,Hydrophobic
+8,-4.7,C,C,0.007,A,THR,4,C,C,3.88,Hydrophobic
+8,-4.7,C,C,0.009,A,GLY,5,CA,C,3.89,Hydrophobic
+8,-4.7,C,C,-0.042,A,GLN,42,CB,C,3.90,Hydrophobic
+8,-4.7,C,C,0.066,A,GLN,42,CA,C,3.91,Hydrophobic
+8,-4.7,C,C,0.009,A,LYS,6,CB,C,3.93,Hydrophobic
+8,-4.7,C,C,0.005,A,GLY,5,C,C,3.94,Hydrophobic
+8,-4.7,C,C,-0.051,A,GLN,42,CB,C,3.95,Hydrophobic
+8,-4.7,C,C,-0.017,A,GLY,5,CA,C,3.97,Hydrophobic
+8,-4.7,C,C,0.007,A,GLY,5,CA,C,4.07,Hydrophobic
+8,-4.7,C,C,0.005,A,GLY,5,CA,C,4.11,Hydrophobic
+8,-4.7,C,C,0.007,A,THR,4,CG2,C,4.13,Hydrophobic
+8,-4.7,C,C,0.119,A,VAL,41,C,C,4.15,Hydrophobic
+8,-4.7,C,C,0.012,A,GLN,42,CG,C,4.17,Hydrophobic
+8,-4.7,C,C,0.021,A,LYS,6,CB,C,4.22,Hydrophobic
+8,-4.7,C,C,-0.051,A,GLN,42,CG,C,4.22,Hydrophobic
+8,-4.7,C,C,0.005,A,LYS,6,CA,C,4.24,Hydrophobic
+8,-4.7,C,C,0.007,A,THR,4,CB,C,4.24,Hydrophobic
+8,-4.7,C,C,0.119,A,GLU,40,CB,C,4.27,Hydrophobic
+8,-4.7,C,C,0.012,A,GLN,42,CD,C,4.27,Hydrophobic
+8,-4.7,C,C,0.066,A,GLN,42,CG,C,4.28,Hydrophobic
+8,-4.7,C,C,-0.002,A,LYS,6,CB,C,4.29,Hydrophobic
+8,-4.7,C,C,0.037,A,GLN,42,CB,C,4.30,Hydrophobic
+8,-4.7,C,C,0.119,A,GLU,40,C,C,4.33,Hydrophobic
+8,-4.7,C,C,-0.017,A,THR,4,CG2,C,4.35,Hydrophobic
+8,-4.7,C,C,0.012,A,GLN,42,CB,C,4.39,Hydrophobic
+8,-4.7,C,C,0.009,A,LYS,6,CA,C,4.40,Hydrophobic
+8,-4.7,C,C,-0.042,A,GLN,42,CD,C,4.41,Hydrophobic
+8,-4.7,C,C,-0.042,A,GLN,42,CG,C,4.43,Hydrophobic
+8,-4.7,C,C,0.066,A,GLN,42,CD,C,4.47,Hydrophobic
+8,-4.7,C,C,0.119,A,GLN,42,CA,C,4.48,Hydrophobic
+8,-4.7,C,C,0.036,A,GLN,42,CG,C,4.49,Hydrophobic
+8,-4.7,C,C,-0.051,A,GLN,42,CD,C,4.50,Hydrophobic
+9,-4.7,O,OA,-0.391,A,GLU,40,OE1,OA,3.04,H-bond
+9,-4.7,O,OA,-0.391,A,HIS,53,NE2,NA,3.20,H-bond
+9,-4.7,O,OA,-0.391,A,GLU,40,CD,C,3.45,Van der Waals
+9,-4.7,C,C,0.066,A,GLU,40,CB,C,3.47,Hydrophobic
+9,-4.7,O,OA,-0.391,A,SER,51,CB,C,3.52,Van der Waals
+9,-4.7,O,OA,-0.391,A,SER,51,OG,OA,3.53,Van der Waals
+9,-4.7,C,C,0.036,A,SER,51,OG,OA,3.54,Van der Waals
+9,-4.7,O,OA,-0.391,A,HIS,53,CE1,A,3.54,Van der Waals
+9,-4.7,C,C,0.001,A,GLY,5,CA,C,3.58,Hydrophobic
+9,-4.7,C,C,0.007,A,ARG,126,NH1,N,3.61,Van der Waals
+9,-4.7,C,C,0.009,A,GLY,5,O,OA,3.61,Van der Waals
+9,-4.7,C,C,0.009,A,GLU,40,OE2,OA,3.65,Van der Waals
+9,-4.7,C,C,0.005,A,GLY,5,C,C,3.68,Hydrophobic
+9,-4.7,O,OA,-0.391,A,GLU,40,CB,C,3.68,Van der Waals
+9,-4.7,C,C,0.005,A,LYS,6,N,NA,3.68,Van der Waals
+9,-4.7,C,C,0.012,A,THR,49,CG2,C,3.69,Hydrophobic
+9,-4.7,C,C,0.021,A,GLU,40,OE2,OA,3.69,Van der Waals
+9,-4.7,C,C,0.009,A,GLY,5,C,C,3.70,Hydrophobic
+9,-4.7,C,C,0.005,A,LYS,6,CB,C,3.73,Hydrophobic
+9,-4.7,C,C,0.003,A,THR,4,O,OA,3.76,Van der Waals
+9,-4.7,C,C,0.001,A,THR,4,CG2,C,3.79,Hydrophobic
+9,-4.7,C,C,0.003,A,GLY,5,CA,C,3.79,Hydrophobic
+9,-4.7,C,C,0.012,A,GLN,42,CB,C,3.84,Hydrophobic
+9,-4.7,C,C,0.007,A,ARG,126,CD,C,3.85,Hydrophobic
+9,-4.7,C,C,0.012,A,THR,49,CB,C,3.91,Hydrophobic
+9,-4.7,C,C,0.005,A,GLY,5,CA,C,3.93,Hydrophobic
+9,-4.7,C,C,0.066,A,GLU,40,CD,C,3.98,Hydrophobic
+9,-4.7,C,C,0.009,A,LYS,6,CB,C,4.02,Hydrophobic
+9,-4.7,C,C,0.003,A,GLY,5,CA,C,4.04,Hydrophobic
+9,-4.7,C,C,0.001,A,THR,4,C,C,4.07,Hydrophobic
+9,-4.7,C,C,0.004,A,GLN,42,CB,C,4.09,Hydrophobic
+9,-4.7,C,C,0.119,A,GLU,40,CD,C,4.13,Hydrophobic
+9,-4.7,C,C,0.119,A,GLU,40,CB,C,4.22,Hydrophobic
+9,-4.7,C,C,0.009,A,GLY,5,CA,C,4.22,Hydrophobic
+9,-4.7,C,C,-0.051,A,THR,49,CG2,C,4.23,Hydrophobic
+9,-4.7,C,C,0.003,A,THR,4,C,C,4.28,Hydrophobic
+9,-4.7,C,C,0.005,A,LYS,6,CA,C,4.28,Hydrophobic
+9,-4.7,C,C,0.066,A,GLU,40,CG,C,4.33,Hydrophobic
+9,-4.7,C,C,0.036,A,SER,51,CB,C,4.33,Hydrophobic
+9,-4.7,C,C,0.119,A,SER,51,CB,C,4.34,Hydrophobic
+9,-4.7,C,C,0.007,A,ARG,126,CZ,C,4.37,Hydrophobic
+9,-4.7,C,C,0.012,A,GLN,42,CG,C,4.42,Hydrophobic
+9,-4.7,C,C,0.009,A,LYS,6,CA,C,4.43,Hydrophobic
+9,-4.7,C,C,0.003,A,GLY,5,C,C,4.46,Hydrophobic
+9,-4.7,C,C,0.007,A,ARG,126,CG,C,4.48,Hydrophobic
