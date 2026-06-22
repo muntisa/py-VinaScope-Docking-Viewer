@@ -12,6 +12,8 @@
 
 After running an AutoDock Vina docking job you are left with two PDBQT files — the receptor and the output poses file. `generate_vina_docking_viewer.py` reads both, encodes them as base64, and injects them into an HTML template that renders a fully interactive molecular viewer using [3Dmol.js](https://3dmol.csb.pitt.edu). The result is a single portable `.html` file that opens in any modern browser with no server, no installation, and no additional files required.
 
+![VinaScope Docking Viewer](VinaScope-DockingViewer_screen.png)
+
 ---
 
 ## Features
@@ -40,7 +42,7 @@ After running an AutoDock Vina docking job you are left with two PDBQT files —
 ## Installation
 
 ```bash
-git clone https://github.com/your-org/VinaScope.git
+git clone https://github.com/muntisa/py-VinaScope-Docking-Viewer.git
 cd VinaScope
 # No pip install needed — pure stdlib Python
 ```
@@ -48,7 +50,7 @@ cd VinaScope
 Or copy the script into your working directory:
 
 ```bash
-curl -O https://raw.githubusercontent.com/your-org/VinaScope/main/generate_vina_docking_viewer.py
+curl -O https://raw.githubusercontent.com/muntisa/py-VinaScope-Docking-Viewer/main/generate_vina_docking_viewer.py
 ```
 
 ---
