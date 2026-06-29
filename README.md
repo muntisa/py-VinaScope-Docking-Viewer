@@ -299,3 +299,9 @@ Cartoon representation requires chain and secondary-structure information. If th
 ## License
 
 MIT — use freely in academic, commercial, or personal projects. Attribution appreciated but not required.
+
+---
+
+## References
+
+VinaDock Viz was used in the project hosted at [https://autodockvina.com/results](https://autodockvina.com/results).
